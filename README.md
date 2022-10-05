@@ -21,8 +21,9 @@ You can click the Preview link to take a look at your changes.
 <img width="6%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 
+
 </p>
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=enzujp&layout=compact"/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Enzujp&show_icons=true&theme=tokyonight)
