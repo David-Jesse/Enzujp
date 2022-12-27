@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 - 👀 I’m interested in Backend Development using Python, Django/Django Rest Frameworks.
-- 🌱 I’m currently learning C, from a bootcamp and Javascript, majorly for frontend development purposes .
+- 🌱 I’m currently learning C, from a bootcamp and Javascript, majorly for backend development purposes .
 - 💞️ I’m looking to collaborate on open source projects, ecommerce websites or anything tasking really ...
 - 📫 How to reach me- send an email to johnpaulokache@gmail.com ...
 
